@@ -1,0 +1,130 @@
+* {
+    font-family: "Afacad Flux";
+}
+
+h1 {
+    text-align: center;
+  }
+  
+  .container {
+    background-color: rgb(255, 255, 255);
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  .marker {
+    width: 300px;
+    height: 40px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: flex-start; 
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .cap {
+    width: 90px;
+    height: 50px;
+  }
+  
+  .sleeve {
+    width: 170px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-left: 15px double rgba(0, 0, 0, 0.75);
+    display: flex; 
+    justify-content:flex-end    ; 
+    align-items: center; 
+    position: relative;
+    padding-right: 5px;
+  }
+  
+  .sleeve span {
+    /* font-weight: bold; */
+    color: black;
+    z-index: 1; 
+  }
+  
+  /* .cap,
+  .sleeve {
+    display: inline-block;
+  } */
+  
+  .red {
+    background-color: red;
+    box-shadow: 0 0 15px 0 red;
+  }
+  
+  .green {
+    background-color: green;
+    box-shadow: 0 0 15px 0 green;
+  }
+  
+  .blue {
+    background-color: blue;
+    box-shadow: 0 0 15px 0 blue;
+  }
+  
+  .lightrose {
+    background-color: #FFB6C1;
+    box-shadow: 0 0 15px 0 #FFB6C1;
+  }
+
+  .cyan {
+    background-color: cyan;
+    box-shadow: 0 0 15px 0 cyan;
+  }
+
+  .yellow {
+    background-color: yellow;
+    box-shadow: 0 0 15px 0 yellow;
+  }
+
+  .magenta {
+    background-color: magenta;
+    box-shadow: 0 0 15px 0 magenta;
+  }
+
+  .black {
+    background-color: black;
+    box-shadow: 0 0 15px 0 black;
+  }
+  .orange {
+    background-color: orange;
+    box-shadow: 0 0 15px 0 orange;
+  }
+
+  .gray {
+    background-color: gray;
+    box-shadow: 0 0 15px 0 gray;
+  }
+
+  .lime {
+    background-color: lime;
+    box-shadow: 0 0 15px 0 lime;
+  }
+
+  .teal {
+    background-color: teal;
+    box-shadow: 0 0 15px 0 teal;
+  }
+
+  .maroon {
+    background-color: maroon;
+    box-shadow: 0 0 15px 0 maroon;
+  }
+
+  .crimson {
+    background-color: crimson;
+    box-shadow: 0 0 15px 0 crimson;
+  }
+
+  .coral {
+    background-color: coral;
+    box-shadow: 0 0 15px 0 coral;
+  }
+
+  .khaki {
+    background-color: khaki;
+    box-shadow: 0 0 15px 0 khaki;
+  }
